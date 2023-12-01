@@ -10,7 +10,7 @@ de IPTU/ISSQN e Contas de água.</p>
 me atualizando, explorando novos recursos do Java, Computação em nuvem com os serviços Azure e a 
 linguagem C# e criação de containers utilizando Docker e Kubernetes.</p>
 
-## Redes Social
+## Rede Social
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniovvbandeira)
 
 ## Hard-Skills
