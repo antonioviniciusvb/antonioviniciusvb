@@ -33,12 +33,11 @@ linguagem C# e criação de containers utilizando Docker e Kubernetes.</p>
 ## GitHub Stats
 <div>
   <a href="https://github.com/antonioviniciusvb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonioviniciusvb&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioviniciusvb&hide_progress=no&theme=tokyonight">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=antonioviniciusvb&show_icons=true&theme=tokyonight">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioviniciusvb&hide_progress=no&theme=tokyonight">
 </div>
 
 ## Commits
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antonioviniciusvb/antonioviniciusvb/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antonioviniciusvb/antonioviniciusvb/output/github-contribution-grid-snake.svg">
