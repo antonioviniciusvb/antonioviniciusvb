@@ -14,10 +14,7 @@ linguagem C# e criação de containers utilizando Docker e Kubernetes.</p>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniovvbandeira)
 
 ## Hard-Skills
-
-<div style="display: inline_block">
-
-  
+<div style="display: inline_block">  
   <img align="center" alt="Antonio-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Antonio-Dotnet" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Antonio-Dotnet" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -33,11 +30,19 @@ linguagem C# e criação de containers utilizando Docker e Kubernetes.</p>
       
 </div>
 
-<br><br>
+## GitHub Stats
 <div>
   <a href="https://github.com/antonioviniciusvb">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=antonioviniciusvb&show_icons=true&theme=tokyonight">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioviniciusvb&hide_progress=no&theme=tokyonight">
 </div>
+
+## Commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antonioviniciusvb/antonioviniciusvb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antonioviniciusvb/antonioviniciusvb/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/antonioviniciusvb/antonioviniciusvb/output/github-contribution-grid-snake.svg">
+</picture>
 
 
